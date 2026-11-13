@@ -1,0 +1,6 @@
+.venv/
+.duckdb/
+__pycache__/
+*.pyc
+.streamlit/
+.env
